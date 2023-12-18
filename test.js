@@ -1,4 +1,4 @@
-var a = 'hello world this is an external script';
+var a = 'hello Israel this is an external script';
 console.log(a);
     document.getElementById("Make").addEventListener("load",   myAirtable());
     document.getElementById("Make").addEventListener("change",   makemodel);
