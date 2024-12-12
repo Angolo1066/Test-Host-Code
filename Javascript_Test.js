@@ -1,4 +1,6 @@
-    document.getElementById("Make").addEventListener("load",   myAirtable());
+//i have made an update here!
+
+document.getElementById("Make").addEventListener("load",   myAirtable());
     document.getElementById("Make").addEventListener("change",   makemodel);
     
     let make_list = []; //make an empty list of makes
